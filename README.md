@@ -49,7 +49,7 @@
 
 </p><p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aviroy21&" alt="aviroy21" /></p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AviROY21)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mehedi-Hasan-Nazir)  
 
 
 
